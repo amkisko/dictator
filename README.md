@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-[!Screenshot](Screenshot 2023-01-19 at 0.26.22.png)
+!<img width="797" alt="Screenshot 2023-01-19 at 0 26 22" src="https://user-images.githubusercontent.com/54796266/213309286-6d776e96-de9d-49de-ba58-1f293c50c7ee.png">
 
 ## Getting Started
 
