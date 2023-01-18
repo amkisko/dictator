@@ -1,5 +1,5 @@
 /*
-chatgpt
+done with initial chatgpt request, later too much fixes:
 
 generate flutter widget that uses flutter_tts for reading text from large text area
 by parts, text splitted by dot, exclamation and question marks and length not longer than 50 characters,
