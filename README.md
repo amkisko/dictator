@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+[!Screenshot](Screenshot 2023-01-19 at 0.26.22.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
